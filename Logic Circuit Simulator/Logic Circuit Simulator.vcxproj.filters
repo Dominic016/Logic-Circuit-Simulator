@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circuit.h">
+    <ClInclude Include="Source Files\circuit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="elements.h">
+    <ClInclude Include="Source Files\elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="universal_functions.h">
+    <ClInclude Include="Source Files\universal_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="circuit.cpp">
+    <ClCompile Include="Source Files\circuit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="elements.cpp">
+    <ClCompile Include="Source Files\elements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Source Files\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="universal_functions.cpp">
+    <ClCompile Include="Source Files\universal_functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
